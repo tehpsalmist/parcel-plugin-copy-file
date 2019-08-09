@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/tehpsalmist/parcel-plugin-copy-file/issues"
   },
-  "homepage": "https://github.com/tehpsalmist/parcel-plugin-copy-file#readme"
+  "homepage": "https://github.com/tehpsalmist/parcel-plugin-copy-file#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
