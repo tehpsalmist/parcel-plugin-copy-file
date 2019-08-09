@@ -1,0 +1,25 @@
+{
+  "name": "parcel-plugin-copy-file",
+  "version": "0.0.1",
+  "description": "parcel plugin to copy a single file to dist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tehpsalmist/parcel-plugin-copy-file.git"
+  },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "copy",
+    "file"
+  ],
+  "author": "Ben Steward <bstewardcodes@gmail.com> (https://tehpsalmist.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehpsalmist/parcel-plugin-copy-file/issues"
+  },
+  "homepage": "https://github.com/tehpsalmist/parcel-plugin-copy-file#readme"
+}
